@@ -17,3 +17,10 @@ Matteriales de la conferencia [Libros electrónicos y revistas científicas digi
 ## Materiales de Pedro Carrillo
 
 Presentación del taller [Del texto al resultado final: herramientas digitales para la investigación](https://pcarrillo.github.io/Taller-de-herramientas-digitales-de-hdus19/)
+
+## Referencias adicionales
+
+Durante el taller hablamos de algunas herramientas que no están en la presentación. He decidido agregarlas aquí para que no se pierdan el rastro de las mismas:
+
+* Programming Historian - https://programminghistorian.org/es/lecciones/
+* Sigil Ebook Sigil is a multi-platform EPUB ebook Editor - https://sigil-ebook.com
