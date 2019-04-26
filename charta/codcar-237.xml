@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- codcar237 -->
+<TEI xml:id="codcar-237" xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:ch="http://www.cch.kcl.ac.uk/charta/ns/">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Privilegio de Alfonso X otorgando a la ciudad de Burgos y a sus villas y
+                    aldeas exención de servicio, a condición de que satisfagan el correspondiente al
+                    del año en curso.</title>
+                <editor n="1">Raquel Sánchez Romo</editor>
+                <editor n="2">Clara Grande López</editor>
+                <editor n="3">Leyre Martín Aizpuru</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>1</edition>
+            </editionStmt>
+
+            <!--        <seriesStmt>
+            <title>Documentación de cancillería real castellana del siglo XIII</title>
+            <idno>237</idno>
+        </seriesStmt>-->
+
+            <publicationStmt>
+                <p>-</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>España</country>
+                        <region>Castilla y León</region>
+                        <settlement>Valladolid</settlement>
+                        <repository>Archivo Municipal de Burgos</repository>
+                        <collection/>
+                        <idno>sección histórica, nº 117</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>Privilegio de Alfonso X otorgando a la ciudad de Burgos y a sus
+                            villas y aldeas exención de servicio, a condición de que satisfagan el
+                            correspondiente al del año en curso.</summary>
+                        <msItem>
+                            <title>Privilegio de Alfonso X otorgando a la ciudad de Burgos y a sus
+                                villas y aldeas exención de servicio, a condición de que satisfagan
+                                el correspondiente al del año en curso.</title>
+                            <respStmt>
+                                <resp>Escribano</resp>
+                                <persName>
+                                    <forename>Joán</forename>
+                                    <surname>Pérez</surname>
+                                </persName>
+                            </respStmt>
+                            <filiation>Original</filiation>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc material="perg">
+                                <foliation>Sin foliación</foliation>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <date>1274-05-05</date>
+                            <placeName>
+                                <settlement>Valladolid</settlement>
+                                <region>Castilla y León</region>
+                                <country>España</country>
+                            </placeName>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <!-- Casos con etiquetas dudosas:
+            - letras capitales (ALFONSO, línea 1): está marcado el cambio mayúscula/minúscula pero no el hecho de que son "letras decoradas".
+            - mayúsculas/minúsculas: hemos usado <choice><orig></orig><reg></reg></choice>
+            
+            -->
+            <!-- Dudas de marcación:
+            - ¿Qué pasa con los espacios en la visualización? Es decir, cómo hay que poner las palabras etiquetadas y sin etiquetar, ¿da igual con o sin espacios entre ellas? (revisar la marcación de puntuación en este sentido)
+            -->
+            <ab>
+                <lb n="1"/> Sepan <choice>
+                    <orig>q<ex>ua</ex>ntos</orig>
+                    <reg>cuantos</reg>
+                </choice> esta carta <choice>
+                    <orig>uiere<ex>n</ex></orig>
+                    <reg>vieren</reg>
+                </choice><choice>
+                    <orig>&amp;</orig>
+                    <reg> e</reg>
+                </choice> oyere<ex>n</ex><choice>
+                    <orig>.</orig>
+                    <reg> </reg>
+                </choice>
+                <choice>
+                    <orig>Como</orig>
+                    <reg>cómo</reg>
+                </choice>
+                <choice>
+                    <orig>nos</orig>
+                    <reg>nós</reg>
+                </choice><choice>
+                    <orig> </orig>
+                    <reg>, </reg>
+                </choice>don <choice>
+                    <orig>ALFONSO</orig>
+                    <reg>Alfonso</reg>
+                </choice><choice>
+                    <orig> </orig>
+                    <reg>, </reg>
+                </choice>por la gr<ex>aci</ex>a de <choice>
+                    <orig>dios</orig>
+                    <reg>Dios</reg>
+                </choice><choice>
+                    <orig>Rey</orig>
+                    <reg>rey</reg>
+                </choice> de Castiella<choice>
+                    <orig> </orig>
+                    <reg>, </reg>
+                </choice>de Toledo<choice>
+                    <orig> </orig>
+                    <reg>, </reg>
+                </choice>de <lb n="2"/>
+                <choice>
+                    <orig>Leon</orig>
+                    <reg>León</reg>
+                </choice> de Gallizia<choice>
+                    <orig> </orig>
+                    <reg>, </reg>
+                </choice>de <choice>
+                    <orig>Seuilla</orig>
+                    <reg>Sevilla</reg>
+                </choice><choice>
+                    <orig> </orig>
+                    <reg>, </reg>
+                </choice>de <choice>
+                    <orig>Cordoua</orig>
+                    <reg>Córdova</reg>
+                </choice><choice>
+                    <orig> </orig>
+                    <reg>, </reg>
+                </choice>de Murcia<choice>
+                    <orig> </orig>
+                    <reg>, </reg>
+                </choice>de <choice>
+                    <orig>Jah<ex>e</ex>n</orig>
+                    <reg>Jaén</reg>
+                </choice>
+                <choice>
+                    <orig>&amp;</orig>
+                    <reg>e</reg>
+                </choice> del <choice>
+                    <orig>Algarue</orig>
+                    <reg>Algarve</reg>
+                </choice><choice>
+                    <orig>;</orig>
+                    <reg>,</reg>
+                </choice>
+                <choice>
+                    <orig>Otorgamos</orig>
+                    <reg>otorgamos</reg>
+                </choice> a <choice>
+                    <orig>uos</orig>
+                    <reg>vós</reg>
+                </choice><choice>
+                    <orig> </orig>
+                    <reg>, </reg>
+                </choice>el <choice>
+                    <orig>conceio</orig>
+                    <reg>concejo</reg>
+                </choice> de Burgos <lb n="3"/> de <choice>
+                    <orig>Villa</orig>
+                    <reg>villa</reg>
+                </choice>
+                <choice>
+                    <orig>&amp;</orig>
+                    <reg>e</reg>
+                </choice> de aldeas<choice>
+                    <orig> </orig>
+                    <reg>, </reg>
+                </choice>por muchos <choice>
+                    <orig>seruicios</orig>
+                    <reg>servicios</reg>
+                </choice>
+                <choice>
+                    <orig>&amp;</orig>
+                    <reg>e</reg>
+                </choice> buenos q<ex>ue</ex> nos siemp<ex>re</ex> fiziestes<choice>
+                    <orig> </orig>
+                    <reg>, </reg>
+                </choice><choice>
+                    <orig>&amp;</orig>
+                    <reg>e</reg>
+                </choice>
+                <choice>
+                    <orig>por q<ex>ue</ex></orig>
+                    <reg>porque</reg>
+                </choice>
+                <choice>
+                    <orig>uos</orig>
+                    <reg>vós</reg>
+                </choice>
+                <choice>
+                    <orig>&amp;</orig>
+                    <reg>e</reg>
+                </choice> los otros <choice>
+                    <orig>conceios</orig>
+                    <reg>concejos</reg>
+                </choice> de <choice>
+                    <orig>castiella</orig>
+                    <reg>Castiella</reg>
+                </choice>
+                <choice>
+                    <orig>&amp;</orig>
+                    <reg>e</reg>
+                </choice> de <choice>
+                    <orig>estremadu<lb n="4"/>ra</orig>
+                    <reg>Estremadu<lb n="4"/>ra</reg>
+                </choice> nos prometiestes por <choice>
+                    <orig>u<ex>uest</ex>ras</orig>
+                    <reg>vuestras</reg>
+                </choice> cartas abiertas de nos dar <choice>
+                    <orig>cadan<ex>n</ex>o</orig>
+                    <reg>cad'año</reg>
+                </choice>
+                <choice>
+                    <orig>seruicio</orig>
+                    <reg>servicio</reg>
+                </choice> q<ex>ue</ex> montasse tanto como una moneda<choice>
+                    <orig> </orig>
+                    <reg>, </reg>
+                </choice><choice>
+                    <orig>dellos</orig>
+                    <reg>d'ellos</reg>
+                </choice> por <choice>
+                    <orig>an<ex>n</ex>os</orig>
+                    <reg>años</reg>
+                </choice>
+                <choice>
+                    <orig>se<lb n="5"/>nnalados</orig>
+                    <reg>se<lb n="5"/>ñalados</reg>
+                </choice>
+                <choice>
+                    <orig>&amp;</orig>
+                    <reg>e</reg>
+                </choice>
+                <choice>
+                    <orig>dellos</orig>
+                    <reg>d'ellos</reg>
+                </choice> por <choice>
+                    <orig>q<ex>ua</ex>nto</orig>
+                    <reg>cuanto</reg>
+                </choice> tiempo <choice>
+                    <orig>nos</orig>
+                    <reg>nós</reg>
+                </choice><choice>
+                    <orig>touiessemos</orig>
+                    <reg>toviéssemos</reg>
+                </choice> por bien. <choice>
+                    <orig>&amp;</orig>
+                    <reg>E</reg>
+                </choice>
+                <choice>
+                    <orig>otrossi</orig>
+                    <reg>otrossí</reg>
+                </choice>
+                <choice>
+                    <orig>por q<ex>ue</ex></orig>
+                    <reg>porque</reg>
+                </choice> otorgastes q<ex>ue</ex> nos dariedes <choice>
+                    <orig>ogan<ex>n</ex>o</orig>
+                    <reg>ogaño</reg>
+                </choice> el <choice>
+                    <orig>seruicio</orig>
+                    <reg>servicio</reg>
+                </choice> de dos an<ex>n</ex>os <lb n="6"/> bien <choice>
+                    <orig>&amp;</orig>
+                    <reg>e</reg>
+                </choice> complidamientre<choice>
+                    <orig> </orig>
+                    <reg>, </reg>
+                </choice>q<ex>ue</ex> era cosa q<ex>ue</ex>
+                <choice>
+                    <orig>auiemos</orig>
+                    <reg>aviemos</reg>
+                </choice> mucho mester pora fecho del imperio. E <choice>
+                    <orig>nos</orig>
+                    <reg>nós</reg>
+                </choice><choice>
+                    <orig> </orig>
+                    <reg>, </reg>
+                </choice>entendiendo la <choice>
+                    <orig>u<ex>uest</ex>ra</orig>
+                    <reg>vuestra</reg>
+                </choice> grand pobre<lb n="7"/>za<choice>
+                    <orig>;</orig>
+                    <reg>,</reg>
+                </choice> prometemos de <choice>
+                    <orig>uos</orig>
+                    <reg>vos</reg>
+                </choice>
+                <choice>
+                    <orig>nunq<ex>ua</ex></orig>
+                    <reg>nunca</reg>
+                </choice> demandar <choice>
+                    <orig>daq<ex>ui</ex></orig>
+                    <reg>d'aquí</reg>
+                </choice> adelant<ex>e</ex> los <choice>
+                    <orig>seruicios</orig>
+                    <reg>servicios</reg>
+                </choice> de los otros <choice>
+                    <orig>annos</orig>
+                    <reg>años</reg>
+                </choice>
+                <choice>
+                    <orig>&amp;</orig>
+                    <reg>e</reg>
+                </choice>
+                <choice>
+                    <orig>q<ex>ui</ex>tamos uos los</orig>
+                    <reg>quitámosvoslos</reg>
+                </choice> por siempre <choice>
+                    <orig>iamas</orig>
+                    <reg>jamás</reg>
+                </choice><choice>
+                    <orig>.</orig>
+                    <reg>,</reg>
+                </choice>
+                <lb n="8"/>
+                <choice>
+                    <orig>uos</orig>
+                    <reg>vós</reg>
+                </choice>
+                <choice>
+                    <orig>dando nos</orig>
+                    <reg>dándonos</reg>
+                </choice>
+                <choice>
+                    <orig>ogan<ex>n</ex>o</orig>
+                    <reg>ogaño</reg>
+                </choice> el <choice>
+                    <orig>seruicio</orig>
+                    <reg>servicio</reg>
+                </choice> como sobr<ex>e</ex>dicho es. E otorgamos q<ex>ue</ex>
+                <choice>
+                    <orig>nos</orig>
+                    <reg>nós</reg>
+                </choice> ni los otros reyes q<ex>ue</ex>
+                <choice>
+                    <orig>regnaran</orig>
+                    <reg>regnarán</reg>
+                </choice>
+                <choice>
+                    <orig>despues</orig>
+                    <reg>después</reg>
+                </choice> de <choice>
+                    <orig>nos</orig>
+                    <reg>nós</reg>
+                </choice> en Castiel<lb n="9"/>la <choice>
+                    <orig>&amp;</orig>
+                    <reg>e</reg>
+                </choice> en <choice>
+                    <orig>Leo<ex>n</ex></orig>
+                    <reg>León</reg>
+                </choice><choice>
+                    <orig>.</orig>
+                    <reg>,</reg>
+                </choice> q<ex>ue</ex>
+                <choice>
+                    <orig>uos</orig>
+                    <reg>vos</reg>
+                </choice> lo no podamos demandar por fuero ni por uso. E <choice>
+                    <orig>por q<ex>ue</ex></orig>
+                    <reg>porque</reg>
+                </choice>
+                <choice>
+                    <orig>desto</orig>
+                    <reg>d'esto</reg>
+                </choice>seades<choice>
+                    <orig>mas</orig>
+                    <reg>más</reg>
+                </choice>seguros<choice>
+                    <orig>.</orig>
+                    <reg>,</reg>
+                </choice>
+                <choice>
+                    <orig>damos uos</orig>
+                    <reg>dámosvos</reg>
+                </choice> ende esta n<ex>uest</ex>ra <lb n="10"/> carta seellada con
+                n<ex>uest</ex>ro seello de plomo. <choice>
+                    <orig>ffecha</orig>
+                    <reg>Fecha</reg>
+                </choice> la carta en Valladolit<choice>
+                    <orig> </orig>
+                    <reg>, </reg>
+                </choice><choice>
+                    <orig>Sabb<ex>ad</ex>o</orig>
+                    <reg>sábado</reg>
+                </choice><choice>
+                    <orig> </orig>
+                    <reg>, </reg>
+                </choice>cinco<choice>
+                    <orig>dias</orig>
+                    <reg>días</reg>
+                </choice>andados del mes de<choice>
+                    <orig>Mayo</orig>
+                    <reg>mayo</reg>
+                </choice><choice>
+                    <orig> </orig>
+                    <reg>, </reg>
+                </choice>en <choice>
+                    <orig>Era</orig>
+                    <reg>era</reg>
+                </choice>de <lb n="11"/> mill <choice>
+                    <orig>&amp;</orig>
+                    <reg>e</reg>
+                </choice>trezientos<choice>
+                    <orig>&amp;</orig>
+                    <reg>e</reg>
+                </choice>doze<choice>
+                    <orig>annos</orig>
+                    <reg>años</reg>
+                </choice>. Yo<choice>
+                    <orig> </orig>
+                    <reg>, </reg>
+                </choice> Joh<ex>a</ex>n<choice>
+                    <orig>perez</orig>
+                    <reg>Pérez</reg>
+                </choice><choice>
+                    <orig> </orig>
+                    <reg>, </reg>
+                </choice> fijo de<choice>
+                    <orig>Millan</orig>
+                    <reg>Millán</reg>
+                </choice><choice>
+                    <orig>perez</orig>
+                    <reg>Pérez</reg>
+                </choice><choice>
+                    <orig> </orig>
+                    <reg>, </reg>
+                </choice>la fiz por mandado del<choice>
+                    <orig>Rey</orig>
+                    <reg>rey</reg>
+                </choice><choice>
+                    <orig> </orig>
+                    <reg>, </reg>
+                </choice>en <choice>
+                    <orig>Veynt</orig>
+                    <reg>veint</reg>
+                </choice><choice>
+                    <orig>&amp;</orig>
+                    <reg>e</reg>
+                </choice> dos <choice>
+                    <orig>annos</orig>
+                    <reg>años</reg>
+                </choice> q<ex>ue</ex> el <lb n="12"/>
+                <choice>
+                    <orig>Rey</orig>
+                    <reg>rey</reg>
+                </choice>sobr<ex>e</ex>dicho <choice><orig>Regno</orig><reg>regnó</reg></choice>. </ab>
+        </body>
+    </text>
+</TEI>

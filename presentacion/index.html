@@ -1,0 +1,403 @@
+<!doctype html>
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8">
+
+		<title>Del texto al resultado final: herramientas digitales para la investigación - Pedro J. Carrillo-Gomez</title>
+
+		<meta name="description" content="A framework for easily creating beautiful presentations using HTML">
+		<meta name="author" content="Hakim El Hattab">
+
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<link rel="stylesheet" href="css/reset.css">
+		<link rel="stylesheet" href="css/reveal.css">
+		<link rel="stylesheet" href="css/theme/white.css" id="theme">
+
+		<!-- Theme used for syntax highlighting of code -->
+		<link rel="stylesheet" href="lib/css/monokai.css">
+
+		<!-- Printing and PDF exports -->
+		<script>
+			var link = document.createElement( 'link' );
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+			document.getElementsByTagName( 'head' )[0].appendChild( link );
+		</script>
+
+		<!--[if lt IE 9]>
+		<script src="lib/js/html5shiv.js"></script>
+		<![endif]-->
+	</head>
+
+	<body>
+
+		<div class="reveal">
+
+			<!-- Any section element inside of this container is displayed as a slide -->
+			<div class="slides">
+				<section>
+					<h3>Del texto al resultado final: herramientas digitales para la investigación</h3>
+					<!--<h3>The HTML Presentation Framework</h3>-->
+					<p>
+						Pedro J. Carrillo-Gomez
+					</p>
+					<p>@pedrocarrillo.com</p>
+				</section>
+				<section  data-markdown>
+						<textarea data-template>
+
+						## ¿Qué haremos?</h2>
+						
+						1. Recopilación
+						2. Análisis-Codificación
+						3. Análisis-Edición preliminar
+						4. Edición final
+						5. Publicación
+						</textarea>
+				</section>
+				
+				<section>
+					<section data-markdown>
+						<textarea data-template>
+							## 1. Recopilación
+					
+							* Transcripción
+							* OCR (Optic Character Recognition)
+							* Depuración
+						</textarea>
+					</section>	
+					<section data-markdown>
+						<textarea data-template>							
+							## Trancripción 
+					
+							Recolectamos los textos para crear nuestro corpus digital. Este paso está íntimamente relacionado con los criterios para la edición.
+						</textarea>
+					</section>
+					<section data-markdown>
+						<textarea data-template>
+							## OCR (Optic Character Recognition) 
+					
+							[Reconocimiento Óptico de Caracteres (ROC)](https://es.wikipedia.org/wiki/Reconocimiento_%C3%B3ptico_de_caracteres) es un proceso dirigido a la digitalización de textos, los cuales identifican automáticamente a partir de una imagen símbolos o caracteres que pertenecen a un determinado alfabeto, para luego almacenarlos en forma de datos.
+						</textarea>
+					</section>
+					<section data-markdown>
+						<textarea data-template>							
+							## Herramientas OCR
+							### Adobe Acrobat
+
+							* [Alternativas gratis](https://alternativeto.net/software/adobe-acrobat/?license=free)
+							* [Alternativas Abiertas](https://alternativeto.net/software/adobe-acrobat/?license=opensource)
+						</textarea>
+					</section>
+					<section data-markdown>
+						<textarea data-template>							
+							## Herramientas OCR						
+							### Tesaract
+
+							* A favor
+							* En contra 
+							* [https://github.com/tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract)
+							* Ejemplo de uso
+							* [Tutorial (Inglés)](https://www.youtube.com/watch?v=QhJiOCwz-_I)
+						</textarea>
+					</section>
+					<section data-markdown>
+						<textarea data-template>							
+							## Transcribus										
+
+							Transkribus is a comprehensive platform for the automated recognition, transcription and searching of historical documents. 
+							
+							### It consists of
+
+* an expert tool (Transkribus)
+* a webinterface (http://transkribus.eu/) and
+* several cloud services.
+						</textarea>
+					</section>
+					<section data-markdown>
+						<textarea data-markdown>
+							## Transcribus
+
+The main objective of Transkribus is to support users who are engaged in the transcription of printed or handwritten documents, namely humanities scholars, archives, members of the public and computer scientists.
+						</textarea>
+					</section>
+					<section data-markdown>
+							<textarea data-markdown>
+								## Transcribus
+
+Tools for the automated processing of documents:
+	
+* Handwritten Text Recognition (HTR)
+* Layout Analysis
+* Document Understanding
+* Writer Identification
+* Optical Character Recognition (OCR) using ABBYY Finereader Engine 11
+							</textarea>
+						</section>
+						<section data-markdown>
+								<textarea data-markdown>
+									## Transcribus
+	
+Transkribus is funded by the European Commission as part of the READ project (Recognition and Enrichment of Archival Documents). 
+
+[https://read.transkribus.eu](https://read.transkribus.eu/)
+								</textarea>
+							</section>
+							<section data-markdown>
+									<textarea data-markdown>
+										## Transcribus
+		
+### [https://transkribus.eu](https://transkribus.eu)
+									</textarea>
+								</section>
+					<section data-markdown>
+						<textarea data-template>							
+							## Depuración 
+					
+							* Proceso iterativo 
+							* Mejor corpus => resultados óptimos
+						</textarea>
+						</section>
+				</section>
+				<section>
+				<section data-markdown>
+					<textarea data-template>
+						## 2. Análisis-Codificación  
+				
+						* TEI
+						* CHARTA
+						* CHARTA-TEI
+						* Editores
+					</textarea>
+				</section>
+				<section data-markdown>
+						<textarea data-template>
+							## Text Encoding Initiative - TEI
+					
+							«...estándar para la representación de los textos en forma digital. Se trata de un proyecto de investigación en humanidades digitales que goza de una amplia difusión y utilización en bibliotecas y colecciones de texto digitales y en la creación de corpus lingüísticos [...] Se basa en el lenguaje XML...» 
+						</textarea>
+				</section>
+				<section data-markdown>
+						<textarea data-template>
+							## TEI
+					
+							* Estándar
+							* Abierto
+							* No propietario
+							* Tecnologías asociadas accesibles
+								* xquery
+								* xpath
+						</textarea>
+				</section>
+				<section data-markdown>
+						<textarea data-template>
+							## Ejemplo de TEI
+							### http://teibyexample.org
+						</textarea>
+				</section>
+				<section data-markdown>
+						<textarea data-template>
+							## CHARTA
+					
+							«...proyecto destinado a la publicación en red de un corpus de textos y documentos antiguos de los siglos XII al XIX de España e Hispanoamérica, con un sistema de presentación triple riguroso (paleográfica, crítica y facsimilar) con el fin de satisfacer distintas necesidades de investigadores y usuarios en general.»
+
+							[https://www.redcharta.es](https://www.redcharta.es/que-es-la-red-charta-y-cuales-son-sus-objetivos/)
+						</textarea>
+				</section>
+				<section data-markdown>
+					<textarea data-template>
+						## CHARTA
+
+						* No es estándar
+						* No validación 
+						* Abierto (?)
+						* No propietario
+						* Tecnologías asociadas menos accesibles
+							* RegEx (Expresiones regulares)
+							* [Tutorial Expresiones Regulares](https://www.adictosaltrabajo.com/2015/01/29/regexsam/)
+												
+					</textarea>
+				</section>
+				<section data-markdown>
+					<textarea data-template>
+						## Ejemplo de CHARTA
+
+						### [http://www.corpuscharta.es](http://www.corpuscharta.es)
+					</textarea>
+				</section>
+				<section data-markdown>
+						<textarea data-template>
+							## CHARTA-TEI
+							### Ejemplo de codificación
+						</textarea>
+					</section>
+					<section data-markdown>
+							<textarea data-template>
+								## Codificación 
+								### Editores
+
+								* [Oxygen XML](https://www.oxygenxml.com)
+								* [Sublime Text](https://www.sublimetext.com) 
+								* [Visual Studio Code](https://code.visualstudio.com) 
+								* [Atom](https://atom.io) 
+								* [BBEdit](https://www.barebones.com/products/bbedit/index.html) 
+								* [VIM](https://www.vim.org) 
+							</textarea>
+						</section>
+			</section>
+			<section>
+				<section data-markdown>
+						<textarea data-template>
+							## 3. Análisis-Edición preliminar 
+							
+
+							
+						</textarea>
+					</section>
+			</section>
+			<section>
+				<section data-markdown>
+						<textarea data-template>
+							## 4. Edición final 						
+
+							* Docx
+							* LaTeX
+							* HTML
+							* XML
+							* ePub
+							* TXT
+							* MarkDown 
+						</textarea>
+				</section> 
+				<section data-markdown>
+						<textarea data-template>
+							## Edición final 						
+
+							Procesado de la codifiación
+						</textarea>
+				</section> 
+			</section>
+			<section>
+					<section data-markdown>
+							<textarea data-template>
+									## 5. Publicación digital 
+									No existen criterios unificados a este respecto. Dependerá siempre de los objetivos, características y destinatarios del proyecto.
+							</textarea>
+					</section>
+					<section data-markdown>
+							<textarea data-template>
+									## Publicación Web y autohospedaje 
+									* https://jekyllrb.com
+									* https://wordPress.com
+									* https://wordPress.org 		
+									* https://laravel.com
+		
+									* Ionic
+									* PHP (?) 
+									* eXist-db
+									* BaseX
+									* Omeka
+									* http://v-machine.org
+							</textarea>
+					</section>
+					<section data-markdown>
+							<textarea data-template>
+									## 4. Publicación digital
+									### Especializados  
+									* http://v-machine.org
+									* [eXist-db](http://exist-db.org/exist/apps/homepage/index.html)
+									* [TEI Publiher](http://teipublisher.com/exist/apps/tei-publisher-home/index.html)
+									* BaseX
+									* Omeka
+									
+							</textarea>
+					</section>
+			</section> 
+			<section  data-markdown>
+					<textarea data-template>
+
+					## ¿Qué hemos visto?</h2>
+					
+					1. Recopilación
+					2. Análisis-Codificación
+					3. Análisis-Edición preliminar
+					4. Edición final
+					5. Publicación
+					</textarea>
+			</section>
+			<section  data-markdown>
+					<textarea data-template>
+
+					## Gracias</h2>
+					
+					Pedro J. Carrillo-Gomez
+
+					@pedrocarrillo 
+
+					</textarea>
+			</section>	
+
+				
+
+				
+
+				
+
+				
+
+				
+
+				
+
+				
+
+			
+
+			
+
+				
+
+				
+
+				
+
+				
+
+			</div>
+
+		</div>
+
+		<script src="js/reveal.js"></script>
+
+		<script>
+
+			// More info https://github.com/hakimel/reveal.js#configuration
+			Reveal.initialize({
+				controls: true,
+				progress: true,
+				center: true,
+				hash: true,
+
+				transition: 'slide', // none/fade/slide/convex/concave/zoom
+
+				// More info https://github.com/hakimel/reveal.js#dependencies
+				dependencies: [
+					{ src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/highlight/highlight.js', async: true },
+					{ src: 'plugin/search/search.js', async: true },
+					{ src: 'plugin/zoom-js/zoom.js', async: true },
+					{ src: 'plugin/notes/notes.js', async: true }
+				]
+			});
+
+		</script>
+
+	</body>
+</html>
