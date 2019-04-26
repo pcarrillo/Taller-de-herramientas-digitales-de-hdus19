@@ -1,5 +1,7 @@
 # Taller «Del texto al resultado final: herramientas digitales para la investigación»
 
+*NOTA: este contenido está en edición abierta. Seguiremos agregando información. Si algo no queda claro o se nos escapa, envíennos un tuit y los agregamos.*
+
 Este respositorio recoje el material que utilizamos en el taller que se celebró en el marco de las [II Jornadas de Humanidades Digitales en el Ámbito de la Filología](https://humdibus.wordpress.com) que se celebró en la [Facultad de Filología de la Universidad de Sevilla](http://filologia.us.es) los días 25 y 26 de abril de 2010.
 
 ## Materiales de José Manuel Fradejas 
