@@ -13,3 +13,7 @@ Repositorio de GitHub de scripts y materiales de R: https://github.com/7Partidas
 Twitter: [@mateotw](https://twitter.com/mateotw)
 
 Matteriales de la conferencia [Libros electrónicos y revistas científicas digitales](https://docs.google.com/presentation/d/190KneC4Xy0kuXuNk8YR-ssXUN5B35krIhp4GkQi1338/edit?usp=sharing_eip&ts=5cc2062d)
+
+## Materiales de Pedro Carrillo
+
+Presentación del [Del texto al resultado final: herramientas digitales para la investigación](https://pcarrillo.github.io/taller-herramientas-digitales-hdus19/presentacion/)
