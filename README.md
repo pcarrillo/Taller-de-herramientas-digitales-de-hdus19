@@ -24,3 +24,6 @@ Durante el taller hablamos de algunas herramientas que no están en la presentac
 
 * Programming Historian - https://programminghistorian.org/es/lecciones/
 * Sigil Ebook Sigil is a multi-platform EPUB ebook Editor - https://sigil-ebook.com
+* https://alternativeto.net
+* http://teibyexample.org
+* [Escritura sostenible en texto plano usando Pandoc y Markdown por Dennis Tenen y Grant Wythoff](https://programminghistorian.org/es/lecciones/escritura-sostenible-usando-pandoc-y-markdown)
