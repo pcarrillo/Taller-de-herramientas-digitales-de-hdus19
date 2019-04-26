@@ -16,4 +16,4 @@ Matteriales de la conferencia [Libros electrónicos y revistas científicas digi
 
 ## Materiales de Pedro Carrillo
 
-Presentación del [Del texto al resultado final: herramientas digitales para la investigación](https://pcarrillo.github.io/taller-herramientas-digitales-hdus19/presentacion/)
+Presentación del taller [Del texto al resultado final: herramientas digitales para la investigación](https://pcarrillo.github.io/taller-herramientas-digitales-hdus19/presentacion/)
