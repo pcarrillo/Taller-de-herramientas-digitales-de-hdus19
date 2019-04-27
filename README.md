@@ -16,6 +16,12 @@ Twitter: [@mateotw](https://twitter.com/mateotw)
 
 Matteriales de la conferencia [Libros electrónicos y revistas científicas digitales](https://docs.google.com/presentation/d/190KneC4Xy0kuXuNk8YR-ssXUN5B35krIhp4GkQi1338/edit?usp=sharing_eip&ts=5cc2062d)
 
+## Materiales de Manuel Díaz Ordóñez
+
+Twitter: [@meollar](https://twitter.com/meollar)
+
+[Nuevas líneas de investigación desarrolladas en el marco del Máster de Historia y Humanidades Digitales de la Universidad Pablo de Olavide](https://prezi.com/pr3kh8em56yf/ii-jornadas-de-humanidades-digitales-en-la-universidad-de-se/)
+
 ## Materiales de Pedro Carrillo
 
 Presentación del taller [Del texto al resultado final: herramientas digitales para la investigación](https://pcarrillo.github.io/Taller-de-herramientas-digitales-de-hdus19/)
