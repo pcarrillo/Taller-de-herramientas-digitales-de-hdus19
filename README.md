@@ -8,7 +8,7 @@ Este respositorio recoje el material que utilizamos en el taller que se celebró
 
 Twitter: [@JMFradeRue](https://www.twitter.com/JMFradeRue)
 
-Repositorio de GitHub de scripts y materiales de R: https://github.com/7PartidasDigital/AnaText
+Repositorio de GitHub de scripts y materiales de R: [https://github.com/7PartidasDigital/AnaText](https://github.com/7PartidasDigital/AnaText)
 
 ## Materiales de Mateo Sánchez
 
@@ -30,8 +30,8 @@ Presentación del taller [Del texto al resultado final: herramientas digitales p
 
 Durante el taller hablamos de algunas herramientas que no están en la presentación. He decidido agregarlas aquí para que no se pierdan el rastro de las mismas:
 
-* Programming Historian - https://programminghistorian.org/es/lecciones/
-* Sigil Ebook Sigil is a multi-platform EPUB ebook Editor - https://sigil-ebook.com
-* https://alternativeto.net
-* http://teibyexample.org
+* Programming Historian - [https://programminghistorian.org/es/lecciones/](https://programminghistorian.org/es/lecciones/)
+* Sigil Ebook Sigil is a multi-platform EPUB ebook Editor - [https://sigil-ebook.com](https://sigil-ebook.com)
+* [https://alternativeto.net](https://alternativeto.net)
+* [http://teibyexample.org](http://teibyexample.org)
 * [Escritura sostenible en texto plano usando Pandoc y Markdown por Dennis Tenen y Grant Wythoff](https://programminghistorian.org/es/lecciones/escritura-sostenible-usando-pandoc-y-markdown)
