@@ -24,7 +24,7 @@ Twitter: [@meollar](https://twitter.com/meollar)
 
 ## Materiales de Pedro Carrillo
 
-Presentación del taller [Del texto al resultado final: herramientas digitales para la investigación](https://pcarrillo.github.io/Taller-de-herramientas-digitales-de-hdus19/)
+Presentación del taller [Del texto al resultado final: herramientas digitales para la investigación](https://pcarrillo.github.io/Taller-de-herramientas-digitales-de-hdus19/presentacion)
 
 ## Referencias adicionales
 
